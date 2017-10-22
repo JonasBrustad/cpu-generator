@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+*.iml
+.idea
+/*/target
+target/
+.DS_Store
+version.json
+node_modules/
