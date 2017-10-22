@@ -17,7 +17,7 @@ class CpuGenerator extends Generator {
 
     initializing() {
         this.log(yosay(
-            'Welcome to ' + chalk.red('generator-cpu') + '. A demo generator dor CPU!'
+            'Welcome to ' + chalk.red('generator-cpu') + '. A demo generator for CPU!'
         ));
     }
 
