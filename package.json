@@ -1,0 +1,16 @@
+{
+  "name": "generator-cpu",
+  "version": "0.1.0",
+  "description": "Demo generator for cdu",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "1.x.x",
+    "yeoman-generator": "^1.x.x",
+    "yosay": "^1.2.0"
+  }
+}
